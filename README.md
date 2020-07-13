@@ -9,7 +9,7 @@
 # Setup KeyCloak and integration with spring boot application
 
 ## 1.Download link
-## https://github.com/keycloak/keycloak-quickstarts/archive/latest.zip
+## https://www.keycloak.org/downloads
 ## unzip the zip folder and go to bin folder and run standalone.bat file
 ##                            OR 
 ## Run Keycloak using docker otherwise download and follow the steps from- https://www.keycloak.org/getting-started/getting-started-zip
