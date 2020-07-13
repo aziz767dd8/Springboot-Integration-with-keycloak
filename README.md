@@ -1,3 +1,11 @@
+# following features has been done 
+## 1- Setup Keycloak
+## 2- Create token API
+## 3- Refresh Token
+## 4- Login with user registered on Keycloak
+## 5- Authorization based on user role
+## 6- Keycloak Auth Provider to validate token expiry
+
 # Setup KeyCloak and integration with spring boot application
 
 ## 1.Download link
@@ -15,12 +23,6 @@
 ## 7. Create a spring web application.
 ## 8. Integrate  spring web application with Keycloak
 
-# following features has been done 
-## 1- Setup Keycloak
-## 2- Create token API
-## 3- Refresh Token
-## 4- Login with user registered on Keycloak
-## 5- Authorization based on user role
-## 6- Keycloak Auth Provider to validate token expiry
+
 
 
