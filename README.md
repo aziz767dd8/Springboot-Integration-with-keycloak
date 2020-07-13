@@ -1,4 +1,4 @@
-## Setup KeyCloak and integration with spring boot application
+### Setup KeyCloak and integration with spring boot application
 
 # 1.Download link
 # https://github.com/keycloak/keycloak-quickstarts/archive/latest.zip
