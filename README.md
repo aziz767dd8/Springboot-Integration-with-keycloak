@@ -1,12 +1,12 @@
-### Setup KeyCloak and integration with spring boot application
+# Setup KeyCloak and integration with spring boot application
 
-# 1.Download link
-# https://github.com/keycloak/keycloak-quickstarts/archive/latest.zip
-# unzip the zip folder and go to bin folder and run standalone.bat file
-#                            OR 
-# Run Keycloak using docker otherwise download and follow the steps from- https://www.keycloak.org/getting-started/getting-started-zip
-# docker run -p "8080:8080" -e KEYCLOAK_USER=admin -e KEYCLOAK_PASSWORD=pass jboss/keycloak
-# check for basic steps- https://www.baeldung.com/spring-boot-keycloak
+## 1.Download link
+## https://github.com/keycloak/keycloak-quickstarts/archive/latest.zip
+## unzip the zip folder and go to bin folder and run standalone.bat file
+##                            OR 
+## Run Keycloak using docker otherwise download and follow the steps from- https://www.keycloak.org/getting-started/getting-started-zip
+## docker run -p "8080:8080" -e KEYCLOAK_USER=admin -e KEYCLOAK_PASSWORD=pass jboss/keycloak
+## check for basic steps- https://www.baeldung.com/spring-boot-keycloak
 # 2. Create an admin account on http://localhost:8080/auth link
 # 3.Login in to the admin console on http://localhost:8080/auth/admin/ link
 # 4. Create a Realm:   SpringBootKeycloak
