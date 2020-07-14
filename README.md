@@ -23,6 +23,8 @@
 ## 7. Create a spring web application.
 ## 8. Integrate  spring web application with Keycloak
 
+# Import KeycloakAPIs.postman_collection.json file into postmam and test rest api integration with Keycloak
+
 
 
 
